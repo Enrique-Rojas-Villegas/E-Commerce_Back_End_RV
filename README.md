@@ -25,7 +25,7 @@
 - [Usage](#usage)
 - [License](#license)
 - [Contributors](#contributors)
-- [Tests](#tests)
+- [Video](#video)
 - [Questions](#questions)
 - [Images](#images)
 
@@ -51,9 +51,10 @@ Provide instructions for use:
 
 Enoc Rojas Villegas
 
-## Tests
+## Video
 
-No testing
+This link will take you to a short clip showing the functionality of the app.
+https://drive.google.com/file/d/1GvdctKZSEKw3koafTiB8ISRlhaMoEwJr/view
 
 ## Questions
 
